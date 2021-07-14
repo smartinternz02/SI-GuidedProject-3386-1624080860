@@ -1,1 +1,1 @@
-# Garbage-Classification project
+# Garbage-Classification
